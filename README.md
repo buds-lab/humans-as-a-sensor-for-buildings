@@ -1,4 +1,4 @@
-# Indoor Comfort Personalities: Scalable Occupant Preference Capture Using Micro Ecological Momentary Assessments 
+# Humans-as-a-Sensor: Intensive Longitudinal Indoor Comfort Models
 
 This repository is the official implementation of [Indoor Comfort Personalities: Scalable Occupant Preference Capture Using Micro Ecological Momentary Assessments](https://www.researchgate.net/publication/338527635_Indoor_Comfort_Personalities_Scalable_Occupant_Preference_Capture_Using_Micro_Ecological_Momentary_Assessments)
 . 
