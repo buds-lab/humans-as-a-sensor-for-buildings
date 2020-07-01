@@ -1,12 +1,11 @@
-# Humans-as-a-Sensor: Intensive Longitudinal Indoor Comfort Models
+# Humans-as-a-Sensor for Buildings: Intensive Longitudinal Indoor Comfort Models
 
-This repository is the official implementation of [Indoor Comfort Personalities: Scalable Occupant Preference Capture Using Micro Ecological Momentary Assessments](https://www.researchgate.net/publication/338527635_Indoor_Comfort_Personalities_Scalable_Occupant_Preference_Capture_Using_Micro_Ecological_Momentary_Assessments)
-. 
-
-**Note:** The notebooks might take some time to load, if they don't try refreshing the page.
+This repository is the implementation of the following publication:
 
 ## For Interactive Code Click on the Following Binder Link
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/buds-lab/cozie-jupyter/master)
+
+**Note:** The notebooks might take some time to load, if they don't try refreshing the page.
 
 ## Requirements
 
