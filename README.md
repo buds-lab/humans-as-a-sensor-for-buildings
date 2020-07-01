@@ -3,6 +3,8 @@
 This repository is the official implementation of [Indoor Comfort Personalities: Scalable Occupant Preference Capture Using Micro Ecological Momentary Assessments](https://www.researchgate.net/publication/338527635_Indoor_Comfort_Personalities_Scalable_Occupant_Preference_Capture_Using_Micro_Ecological_Momentary_Assessments)
 . 
 
+**Note:** The notebooks might take some time to load, if they don't try refreshing the page.
+
 ## For Interactive Code Click on the Following Binder Link
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/buds-lab/cozie-jupyter/master)
 
@@ -70,12 +72,12 @@ Inside `2019-11-15_personal_micro.pickle`, the dictionary key `fs1_thermal` will
 
 ## Results
 
-All the figures in the paper can be reproduced with notebooks inside `img/`:
-- `PublicationPlots_v1.ipynb` reproduces Figure 4 
-- `PublicationPlots_v2.ipynb` reprduces Figure 6
-- `plots.ipynb` reproduces Figure 7 
-- `comfort-tiles.ipynb` reproduces heatmaps
-
+All the figures in the paper can be reproduced with notebooks inside `publications-plots/`:
+- `comfort-tiles.ipynb` reproduces Figure 4 
+- `PublicationPlots_v1.ipynb` reproduces Figure 5 
+- `PublicationPlots_v2.ipynb` reproduces Figure 7 
+- `plots.ipynb` reproduces Figure 8 
+- `PublicationPlots_v3.ipynb` reproduces Figure 9
 
 ## Contributing
 
