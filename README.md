@@ -1,6 +1,6 @@
 # Humans-as-a-Sensor for Buildings: Intensive Longitudinal Indoor Comfort Models
 
-This repository covers the technical implementation details of the *Humans-as-a-Sensor for Buildings: Intensive Longitudinal Indoor Comfort Models* paper that will soon be pre-printed and has been submitted to the journal [Frontiers of the Built Environment](https://www.frontiersin.org/journals/built-environment/sections/indoor-environment).
+This repository covers the technical implementation details of the [*Humans-as-a-Sensor for Buildings: Intensive Longitudinal Indoor Comfort Models*](https://arxiv.org/abs/2007.02014) paper that has been submitted to the journal [Frontiers of the Built Environment](https://www.frontiersin.org/journals/built-environment/sections/indoor-environment).
 
 This methodology heavily uses the [Cozie Fitbit Clockface app](https://cozie.app/) that is outlined in [*Is your clock-face cozie? A smartwatch methodology
 for the in-situ collection of occupant comfort data*](https://iopscience.iop.org/article/10.1088/1742-6596/1343/1/012145/pdf)
