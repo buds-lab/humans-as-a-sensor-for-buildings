@@ -2,7 +2,7 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![https://arxiv.org/abs/2007.02014](https://img.shields.io/badge/arXiv-2007.02014-blue)](https://arxiv.org/abs/2007.02014) ![Python Version](https://upload.wikimedia.org/wikipedia/commons/f/fc/Blue_Python_3.7_Shield_Badge.svg) 
 
-This repository covers the technical implementation details of the [*Humans-as-a-Sensor for Buildings: Intensive Longitudinal Indoor Comfort Models*](https://arxiv.org/abs/2007.02014) paper.
+This repository covers the technical implementation details of the [*Humans-as-a-Sensor for Buildings: Intensive Longitudinal Indoor Comfort Models*](https://www.mdpi.com/2075-5309/10/10/174) paper.
 
 <!-- that has been submitted to the journal [Frontiers of the Built Environment](https://www.frontiersin.org/journals/built-environment/sections/indoor-environment) -->
 
